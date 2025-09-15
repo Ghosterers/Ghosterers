@@ -5,18 +5,44 @@ Sono un ingegnere del software appassionato e rilassato, sempre pronto a imparar
 
 ---
 
+###
+
+<div align="center">
+  <a href="https://x.com/drester_top" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=drester_top&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/1152964912826552331" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=GHOST_DARK_1&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+
+
+###
+
 ## 🛠️ Competenze principali
-- Java, JavaScript, PHP
-- HTML, CSS, Tailwind CSS
-- Docker
-- discord.js e altro ancora...
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="60" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
+</div>
 
----
-
-## 🚀 Progetti in evidenza
-- **Portfolio**: Dai un’occhiata ai miei lavori e progetti!  
-- **Supporto**: Se hai bisogno di aiuto o vuoi collaborare, entra nel mio server Discord: [https://discord.gg/jCPeTsBpWr](https://discord.gg/jCPeTsBpWr)
-- **LivingPvP**: Scopri la nostra community su Discord: [https://discord.livingpvp.eu](https://discord.livingpvp.eu)
 
 ---
 
