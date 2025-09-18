@@ -53,7 +53,7 @@ Sono un ingegnere del software appassionato e rilassato, sempre pronto a imparar
 
 ## 🌐 Contatti & Social
 - **Supporto Discord:** [https://discord.gg/jCPeTsBpWr](https://discord.gg/jCPeTsBpWr)
-- **LivingPvP Discord:** [https://discord.livingpvp.eu](https://discord.livingpvp.eu)
+- **Nuvexa Discord:** [https://discord.nuvexabot.it](https://discord.nuvexabot.it)
 
 ---
 
