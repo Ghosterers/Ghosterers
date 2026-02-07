@@ -51,11 +51,5 @@ Sono un ingegnere del software appassionato e rilassato, sempre pronto a imparar
 
 ---
 
-## 🌐 Contatti & Social
-- **Supporto Discord:** [https://discord.gg/jCPeTsBpWr](https://discord.gg/jCPeTsBpWr)
-- **Nuvexa Discord:** [https://discord.nuvexabot.it](https://discord.nuvexabot.it)
-
----
-
 Grazie per aver visitato il mio profilo!  
 Sentiti libero di contattarmi o di collaborare su progetti open source 🚀
